@@ -1,3 +1,6 @@
+Ce projet a été réalisé durant l'UE techniques de développement de L2S3 à l'UFR de math info de Strasbourg.
+
+
 **compilation cairo :**
 
 make
